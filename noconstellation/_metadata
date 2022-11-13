@@ -1,0 +1,12 @@
+{
+  "name" : "constellation",
+  "friendlyName" : "Remove constellation",
+  "description" : "Remove the constellation",
+  "author" : "Divik",
+  "version" : "0.0.0",
+  "link" : "https://github.com/DarkbordermanModding/Starbound/tree/master/2309272416",
+  "tags": "display",
+  "includes": [],
+  "requires": [],
+  "priority": 0
+}
