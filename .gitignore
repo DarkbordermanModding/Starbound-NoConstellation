@@ -1,2 +1,8 @@
-*.vdf
+# Environments
 .env
+
+# Steam artifacts
+*.vdf
+
+# Starbound artifacts
+*/*.pak
