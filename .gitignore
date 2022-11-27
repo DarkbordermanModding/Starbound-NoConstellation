@@ -2,7 +2,7 @@
 .env
 
 # Steam artifacts
-*.vdf
+workshop.vdf
 
 # Starbound artifacts
 */*.pak
